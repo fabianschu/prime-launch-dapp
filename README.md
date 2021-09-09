@@ -108,6 +108,6 @@ PINATA_API_KEY_TEST=
 PINATA_SECRET_API_KEY_TEST=
 IPSTACK_API_KEY=
 ```
-
+fun branch
 When building for production, the build will look for variables in ".env.production".
 
